@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[mmp:home|Door43 (mmp)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-mmp|d43-mmp repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-mmp/archive/master.zip|d43-mmp.zip]]
+
+**Recent Changes**
+{{changes>ns = mmp}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/mmp|Ethnologue data]]
+
